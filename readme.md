@@ -12,8 +12,7 @@
 
 ## Pipeline links:
 
-[Version_1](https://edubuas-my.sharepoint.com/:u:/g/personal/220387_buas_nl/EW-whwxHMdlFlpmX-OFBIy4Bn67zkULQtbgYqe2oD5Q97Q?e=kdOOMA)
-### > [Final Pipeline](https://edubuas-my.sharepoint.com/:u:/g/personal/220387_buas_nl/ESjA5NiLqvdMotT430_0fvkBsJaNkj0VNHMoFB4QTWr7cg?e=CH4Ifm)
+### > [Final Pipeline](https://edubuas-my.sharepoint.com/:u:/g/personal/220387_buas_nl/ESjA5NiLqvdMotT430_0fvkB4BVl_60BJN9z4IXMvieU8w?e=0s7TeL)
 
 ---
 ## Folder content explanation
